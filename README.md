@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tufan-deve
 - 👀 I’m interested in coding ..
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning and pursuing MCA
 - ⚡ Fun fact: CHILL.
 
 <!---
